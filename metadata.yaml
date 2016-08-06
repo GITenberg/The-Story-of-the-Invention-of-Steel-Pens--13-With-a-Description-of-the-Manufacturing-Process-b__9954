@@ -1,0 +1,23 @@
+_repo: The-Story-of-the-Invention-of-Steel-Pens--13-With-a-Description-of-the-Manufacturing-Process-b__9954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bore, Henry
+    gutenberg_agent_id: '3218'
+    url: http://www.gutenberg.org/2009/agents/3218
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TS'
+- !lcsh 'Pens'
+- GITenberg
+title: "The Story of the Invention of Steel Pens\r\nWith a Description of the Manufacturing\
+  \ Process by Which They Are Produced"
+url: http://www.gutenberg.org/ebooks/9954
